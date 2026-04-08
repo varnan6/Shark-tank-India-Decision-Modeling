@@ -1,4 +1,4 @@
-# AI-Powered Shark Tank Decision Engine — Implementation Plan
+# Shark Tank Funding Modeling and Prediction  
 
 ## Background
 
