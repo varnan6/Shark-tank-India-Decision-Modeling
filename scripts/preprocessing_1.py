@@ -10,9 +10,11 @@ Original file is located at
 # preprocessing_person3.py
 
 import pandas as pd
+from dataloader import load_dataset
 
+df = load_dataset()
 
-def preprocess_shark_data(df: pd.DataFrame):
+def preprocess_shark_data(df):
     """
     Person 3 preprocessing (MUST RUN FIRST)
 
